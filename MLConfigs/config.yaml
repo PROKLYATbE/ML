@@ -1,0 +1,5 @@
+behaviors:  
+  SpaceInvaders:  
+    trainer_type: sac
+    checkpoint_interval: 1000
+    summary_freq: 1000

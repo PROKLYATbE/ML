@@ -1,0 +1,65 @@
+{
+    "SpaceInvaders": {
+        "checkpoints": [
+            {
+                "steps": 4992,
+                "file_path": "results\\first\\SpaceInvaders\\SpaceInvaders-4992.onnx",
+                "reward": null,
+                "creation_time": 1748030180.0974681,
+                "auxillary_file_paths": [
+                    "results\\first\\SpaceInvaders\\SpaceInvaders-4992.pt"
+                ]
+            },
+            {
+                "steps": 5940,
+                "file_path": "results\\first\\SpaceInvaders\\SpaceInvaders-5940.onnx",
+                "reward": null,
+                "creation_time": 1748030198.8530915,
+                "auxillary_file_paths": [
+                    "results\\first\\SpaceInvaders\\SpaceInvaders-5940.pt"
+                ]
+            },
+            {
+                "steps": 6973,
+                "file_path": "results\\first\\SpaceInvaders\\SpaceInvaders-6973.onnx",
+                "reward": null,
+                "creation_time": 1748030219.033418,
+                "auxillary_file_paths": [
+                    "results\\first\\SpaceInvaders\\SpaceInvaders-6973.pt"
+                ]
+            },
+            {
+                "steps": 7973,
+                "file_path": "results\\first\\SpaceInvaders\\SpaceInvaders-7973.onnx",
+                "reward": null,
+                "creation_time": 1748030238.8614426,
+                "auxillary_file_paths": [
+                    "results\\first\\SpaceInvaders\\SpaceInvaders-7973.pt"
+                ]
+            },
+            {
+                "steps": 8397,
+                "file_path": "results\\first\\SpaceInvaders\\SpaceInvaders-8397.onnx",
+                "reward": null,
+                "creation_time": 1748030247.1078365,
+                "auxillary_file_paths": [
+                    "results\\first\\SpaceInvaders\\SpaceInvaders-8397.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8397,
+            "file_path": "results\\first\\SpaceInvaders.onnx",
+            "reward": null,
+            "creation_time": 1748030247.1078365,
+            "auxillary_file_paths": [
+                "results\\first\\SpaceInvaders\\SpaceInvaders-8397.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.0+cpu"
+    }
+}
